@@ -10,7 +10,7 @@ I feel like it is time to attempt to answer the question, "why".
 
 - 📫 How to reach me **mrmpjackson@gmail.com**
 
-<h3 align="left"><a href="https://thetechtunist.blogspot.com/"Read More...</a></h3>
+<h3 align="left"><a href="https://thetechtunist.blogspot.com/">Read More...</a></h3>
 <p align="left">
 </p>
 
