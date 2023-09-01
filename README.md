@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matt</h1>
-<h3 align="center">What if the kid who kept asking "why?" recursively had a point?</h3>
+<h3 align="center">What if the kid who recursively asked "why?" actually had a point?</h3>
 
 We stand on the shoulders of giants, often with no idea how we got here or what constitutes the foundations beneath our feet. Then we try to build new structures reaching further into the clouds.
 The trouble is, when we want to understand the immediate structures on which we build, the levels of abstraction are already so great from the fundamental beginnings that peeling back only on layer is akin to opening up somebody's unfinished novel and attempting to further the plot and character development in a cohesive way by only reading the previous couple of pages. 
